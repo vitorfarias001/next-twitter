@@ -27,7 +27,7 @@ We are going to learn funcionalities such as:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/vitorfarias001/next-twittee.git
+git clone https://github.com/vitorfarias001/next-twitter.git
 ```
 
 ### Install packages
